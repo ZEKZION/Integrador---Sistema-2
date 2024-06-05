@@ -1,0 +1,4 @@
+url   > https://mysql.site4now.net
+server> mysql5048.site4now.net
+user  > a6194c_muni
+clave > muni202306
